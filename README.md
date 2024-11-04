@@ -1,2 +1,1 @@
-# precourse-henry
-este es un repositorio de prueba de precourse henry
+Este es un proyecto de prueba y como clonarlo desde git hub
